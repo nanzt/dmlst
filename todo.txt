@@ -1,0 +1,9 @@
+TODOS
+
+1. 生成包含means和corrected_data的两个tif；
+
+2. 在verbose 下有更多的进度信息；
+
+3. config 里 大小写的true, false应该都能接受。
+
+4. 并行化

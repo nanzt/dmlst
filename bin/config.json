@@ -1,0 +1,11 @@
+{
+ 	"start_date": "2009364",
+	"end_date": "2010005", 
+	"output_params": ["Ta","T0","trise","tset","tm","daylen","nightlen","A","B","a","b","w","t0"], 
+	"source_path": "../sampledata",
+	"output_path":"../sampledata/output",
+ 	"debug":"FALSE",
+	"pixel_num":"1000",
+	"train_size":"10000",
+	"verbose":"FALSE"
+}
