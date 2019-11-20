@@ -1,4 +1,4 @@
-Calculating daily mean MODIS LST (CalDMLST)
+基于predictor-corrector的MODIS LST 日均温度计算工具 (pcDMLST)
 Version 1.0.0
 
 Authors: 
@@ -9,6 +9,8 @@ Ben Yang
 Nanjing Normal University
 Web: https://permalab.nanzt.info
 
+Nov 20, 2019
+ + English translation to the Readme file.
 Aug 3, 2019
  + Initial release
 
